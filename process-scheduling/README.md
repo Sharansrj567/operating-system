@@ -63,10 +63,6 @@ or
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - Inspired by the Xinu operating system.
 - Thanks to the open-source community for valuable resources and support.

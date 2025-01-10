@@ -84,7 +84,3 @@ The detailed document for GDB can be found [here](https://www.gnu.org/software/g
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
